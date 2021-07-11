@@ -21,6 +21,6 @@ A simple typing practise site created using Vuejs
   
 ## License
 
-[MIT](https://github.com/muthhukumar/configs/blob/main/LICENSE)
+[MIT](https://github.com/muthhukumar/typing-practice-app/blob/main/LICENSE)
 
   
