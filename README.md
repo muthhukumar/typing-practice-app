@@ -1,24 +1,26 @@
-# typing-practise
 
-## Project setup
-```
-yarn install
-```
+# Typing practise site
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+A simple typing practise site created using Vuejs
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Installation
+
+```bash
+  git clone https://github.com/muthhukumar/typing-practice-app.git
+  cd typing-practice-app
+  npm install
+```
+    
+## Authors
+
+- [Muthukumar](https://www.github.com/muthhukumar)
+
+  
+## License
+
+[MIT](https://github.com/muthhukumar/configs/blob/main/LICENSE)
+
+  
